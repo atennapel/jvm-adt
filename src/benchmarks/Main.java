@@ -140,4 +140,36 @@ public class Main {
     public void expr16(Blackhole bh) {
         bh.consume(Expr16.bench());
     }
+
+    @Benchmark
+    @Fork(value = 1, warmups = 1)
+    @Warmup(iterations = 3, time = 5)
+    @Measurement(iterations = 3, time = 5)
+    public void expr17(Blackhole bh) {
+        bh.consume(Expr17.bench());
+    }
+
+    @Benchmark
+    @Fork(value = 1, warmups = 1)
+    @Warmup(iterations = 3, time = 5)
+    @Measurement(iterations = 3, time = 5)
+    public void expr18(Blackhole bh) {
+        bh.consume(Expr18.bench());
+    }
+
+    @Benchmark
+    @Fork(value = 1, warmups = 1)
+    @Warmup(iterations = 3, time = 5)
+    @Measurement(iterations = 3, time = 5)
+    public void expr19(Blackhole bh) {
+        bh.consume(Expr19.bench());
+    }
+
+    @Benchmark
+    @Fork(value = 1, warmups = 1)
+    @Warmup(iterations = 3, time = 5)
+    @Measurement(iterations = 3, time = 5)
+    public void expr20(Blackhole bh) {
+        bh.consume(Expr20.bench());
+    }
 }

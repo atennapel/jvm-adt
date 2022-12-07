@@ -1,4 +1,4 @@
-Benchmark    Mode  Cnt         Score          Error  Units
+﻿Benchmark    Mode  Cnt         Score          Error  Units
 Main.expr1  thrpt    3  22802327,784 ± 7612979,165  ops/s
 Main.expr2  thrpt    3  22089306,637 ± 834424,748  ops/s
 Main.expr3  thrpt    3  15975392,383 ± 10365409,617  ops/s
