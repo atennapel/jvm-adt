@@ -1,0 +1,18 @@
+Benchmark    Mode  Cnt         Score          Error  Units
+Main.expr1  thrpt    3  22802327,784 ± 7612979,165  ops/s
+Main.expr2  thrpt    3  22089306,637 ± 834424,748  ops/s
+Main.expr3  thrpt    3  15975392,383 ± 10365409,617  ops/s
+Main.expr4  thrpt    3  20747199,972 ± 11072879,477  ops/s
+Main.expr5  thrpt    3  29408434,252 ± 13882153,660  ops/s
+Main.expr6  thrpt    3  15963949,771 ± 19892119,392  ops/s
+Main.expr7  thrpt    3  23845710,238 ± 21821581,217  ops/s
+Main.expr8  thrpt    3  23673088,795 ± 10770241,484  ops/s
+Main.expr9  thrpt    3  25771853,732 ± 20448873,660  ops/s
+Main.expr10  thrpt   3  24276033,620 ± 32182071,546  ops/s
+Main.expr11  thrpt   3  23398161,173 ± 12340145,219  ops/s
+Main.expr12  thrpt   3  13348410,448 ± 13010907,651  ops/s
+Main.expr13  thrpt   3  16368187,560 ± 18201923,081  ops/s
+Main.expr14  thrpt   3  14613045,669 ± 10111327,567  ops/s
+Main.expr15  thrpt   3  13020564,054 ± 15775119,624  ops/s
+Main.expr16  thrpt   3  11378509,565 ± 9764751,056  ops/s
+
