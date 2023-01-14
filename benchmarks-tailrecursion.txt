@@ -1,0 +1,10 @@
+Main.map1  thrpt    3  98982,168 ± 55646,601  ops/s
+Main.map2  thrpt    3  95642,525 ± 37426,145  ops/s
+Main.map3  thrpt    3  55232,905 ± 2783,062  ops/s
+Main.map4  thrpt    3  84828,508 ± 110127,422  ops/s
+Main.map5  thrpt    3  120187,928 ± 74611,649  ops/s
+Main.map5  thrpt    3  115827,948 ± 92869,266  ops/s
+Main.map5  thrpt    3  218116,079 ± 333911,409  ops/s
+Main.map6  thrpt    3  113726,016 ± 124871,611  ops/s
+Main.map7  thrpt    3  2077774,892 ± 2276334,798  ops/s
+
